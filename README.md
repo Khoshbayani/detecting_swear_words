@@ -1,5 +1,6 @@
-# detecting_swear_words
-a python script detecting swear words from text and trying to prevent bypassing the system
+# How to use detecting_swear_words
+just download all files from repository and save them to directory (folder) , then look at sample.py which is a good example of how to use this project
+
 
 
 # Legal Disclaimer
