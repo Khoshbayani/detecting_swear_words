@@ -1,0 +1,4 @@
+scikit-learn
+ordered_set
+numpy
+hazm
